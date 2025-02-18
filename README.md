@@ -23,3 +23,9 @@
 #### (2) Training Data: There are very few datasets that quantify sentiment scores in practice. Most datasets only classify sentiment into three categories, making it difficult for the LLM to achieve precise numerical sentiment quantification.
 
 #### (3) Experimental Data: In recent years, many social media platforms (such as X and Reddit) have discontinued free web scraping access, requiring paid API subscriptions. If a large volume of user-generated sentiment data could be obtained, the model's prediction accuracy might be further enhanced.
+
+
+![image](https://github.com/Elvis0910607/Images-Repository/blob/main/buy%20and%20sell.png)
+
+
+![image](https://github.com/Elvis0910607/Images-Repository/blob/main/return.png)
