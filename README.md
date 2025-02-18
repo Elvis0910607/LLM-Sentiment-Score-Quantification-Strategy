@@ -3,7 +3,7 @@
 ## 1. Training Dataset
 #### There are many publicly available datasets that classify sentence sentiment, but most of them only distinguish between three categories: positive, negative, and neutral.
 
-#### This makes it difficult to quantify the degree of sentiment as a numerical score. Our dataset is based on the paper "SLee, J., Youn, H., Poon, J., & Han, S. (2023). StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series.", which classifies sentences into 12 different emotions. We have transformed these 12 emotions into sentiment scores to serve as training data for the LLM - Llama 3.
+#### This makes it difficult to quantify the degree of sentiment as a numerical score. Our dataset is based on the paper "StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series", which classifies sentences into 12 different emotions. We have transformed these 12 emotions into sentiment scores to serve as training data for the LLM - Llama 3.
 
 ## 2. Strategy Description
 #### We used Selenium for web scraping and collected all news articles related to TSMC (NYSE: TSM) from Yahoo Finance over the past month, sorting them in chronological order.
